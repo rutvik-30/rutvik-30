@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding seeking career as a backend developer.
 - 🌱 I’m currently learning fullstack web developing and java.
 - 💞️ I’m looking forward to collaborate with tech industries and will be glad to work with them.
-- 📫 LINKEDINaddress -- https://www.linkedin.com/in/rutvik-chaudhary-69485a18a
+- 📫 LINKEDIN address -- https://www.linkedin.com/in/rutvik-chaudhary-69485a18a
 -
 
 <!---
